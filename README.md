@@ -167,7 +167,7 @@ If the attacker stack has an attack power equal to or greater than the defender 
 - While the damage value is greater than zero:
 - - If there are cards left in the defender's stack, send the most recently played card there to the attacker discard pile.
 - - Else if there are not, but there are cards remaining in the lane's lane deck, send the top card from the lane deck to the attacker's hand.
-- - Else if there are no cards remaining in the lane deck either, the attacker has won the game. [Win Conditions](#win-conditions)
+- - Else if there are no cards remaining in the lane deck either, the attacker has won the game. ([Win Conditions](#win-conditions))
 - - Subtract one from the damage value.
  
 The attacker stack is now sent to the attacker discard.
