@@ -159,7 +159,7 @@ If a BOUNCE modifier is present in either stack, send the attacker stack to the 
 All present BOUNCE modifiers now go into the opponent's discard pile. (lane discard for defender BOUNCEs, attacker discard for attacker BOUNCEs)
 
 The number cards present in the stack should now have their sum calculated. Any present WILD modifiers should
-be resolved now. [The Wild Modifier](#the-wild-modifier)
+be resolved now. ([The Wild Modifier](#the-wild-modifier))
 
 If the sum is not now a power of two, the stack has attack power zero. Otherwise, its attack power is the power of two to which the sum is equivalent.
 
