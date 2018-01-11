@@ -45,7 +45,7 @@ To begin the game, first both players shall assume a role. One player is to be t
 
 The attacker and defender should be seated opposite each other, and the area between them is hence known as the 'play area'. The play area should be divided into six parallel 'lanes' which traverse the area from attacker to defender or vice versa.
 
-The BINMAT deck being used for gameplay (as described in section 1) should be shuffled, and then dealt as follows:
+The BINMAT deck being used for gameplay ([The Binmat Deck](#the-binmat-deck)) should be shuffled, and then dealt as follows:
 
 Deal thirteen face up cards in a deck at the defender's end of the right three lanes.
 Deal thirteen face down cards in a deck at the defender's end of the left three lanes.
@@ -56,7 +56,7 @@ Enough space for another deck should be left behind (defender's perspective) the
 
 Enough space should also be left beside the play area for another deck, the 'attacker deck', and behind it space for the 'attacker discard pile'.
 
-If the competitive rules are being followed, the BINMAT app (explained in section 3) may now be placed equidistant from the attacker and defender at one side of the play area.
+If the competitive rules are being followed, the BINMAT app ([Game Structure](#game-structure)) may now be placed equidistant from the attacker and defender at one side of the play area.
 
 The following is an ASCII representation of the play area at the conclusion of setup:
 
@@ -167,7 +167,7 @@ If the attacker stack has an attack power equal to or greater than the defender 
 - While the damage value is greater than zero:
 - - If there are cards left in the defender's stack, send the most recently played card there to the attacker discard pile.
 - - Else if there are not, but there are cards remaining in the lane's lane deck, send the top card from the lane deck to the attacker's hand.
-- - Else if there are no cards remaining in the lane deck either, the attacker has won the game. (section 5)
+- - Else if there are no cards remaining in the lane deck either, the attacker has won the game. [Win Conditions](#win-conditions)
 - - Subtract one from the damage value.
  
 The attacker stack is now sent to the attacker discard.
@@ -184,7 +184,7 @@ The game is won by the defender if all 110 turns have elapsed without the attack
 The game can also be won by the defender if the attacker is unable to draw any cards from the lane decks, and 
 has no cards in attacker stacks or in their hand.
 The game is won by the attacker if they deal more damage to a lane deck than the lane deck has cards. This
-is mentioned in combat resolution (see 4a.iii)
+is mentioned in combat resolution (see [Combat](#combat))
 
 ### Combat Examples and Edge Cases
 [now a stub]
