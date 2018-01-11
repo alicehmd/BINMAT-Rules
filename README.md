@@ -23,18 +23,26 @@ The standard BINMAT deck is composed of seventy-eight (78) cards.
 These cards are distributed in six suits, displayed below:
 
 \& - FORM
+
 \% - KIN
+
 \+ - DATA
+
 \! - CHAOS
+
 \^ - VOID
+
 \# - CHOICE
 
 Every suit contains thirteen cards. Nine of these cards are numbered 2 to 10, and are referred to as such.
 The other four cards are as follows:
 
 \@ - TRAP
+
 \* - WILD
+
 \? - BOUNCE
+
 \> - BREAK
 
 These cards are known as 'modifiers'.
